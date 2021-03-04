@@ -1,5 +1,5 @@
 const config = {
-    "TOKEN" : "ODE2NjUxMjQ0MTM0MzM0NDc3.YD-DvQ.hCuPCh8WeQqUrftga8MhVb_pInE",
+    "TOKEN" : "TOKEN",
     "PREFIX" : "!"
 };
 module.exports = config;
